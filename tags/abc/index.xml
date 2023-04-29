@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abc on Blog</title>
+    <link>/tags/abc/</link>
+    <description>Recent content in abc on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/abc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>/posts/first/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>安装 sudo pacman -S hugo 创建新网站 hugo new site hugo-demo -f yml 主题下载 git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1 cd themes/PaperMod git pull 配置主题 &amp;#34; 在config.yml theme: PaperMod 创建新post hugo new posts/first.md </description>
+    </item>
+    
+  </channel>
+</rss>
